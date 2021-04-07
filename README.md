@@ -2,6 +2,12 @@
 
 ![OCR](images/001.jpg)
 
+OCR 기술을 사용할 수 있는 여러 방법 중 다음과 같이 일부를 학습해 보았다.
+* Google Cloud Vision API
+* Naver CLOVA API
+* Tesseract OCR
+
+---
 ## Google Cloud Vision API - OCR
 
 API 사용에 앞서 필요한 설정은 다음을 참고한다.
