@@ -16,6 +16,8 @@ API 사용에 앞서 필요한 설정은 다음을 참고한다.
 
 [Google Cloud Vision API - OCR 사용하기 (2)](https://davelogs.tistory.com/37)
 
+예제코드: https://github.com/DHDaveB/TIL-Getting-Started-With-OCR/tree/main/google-cloud-vision-api/sample.ipynb
 
+---
 ## Naver CLOVA API - OCR
 
