@@ -1,5 +1,7 @@
 # TIL-Getting-Started-With-OCR
 
+![OCR](images/001.jpg)
+
 ## Google Cloud Vision API - OCR
 
 API 사용에 앞서 필요한 설정은 다음을 참고한다.
